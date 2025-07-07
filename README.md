@@ -1,4 +1,7 @@
-<h2 align="left">Olá 👋! Meu nome é Sarah, de Fortaleza-CE, Brazil</h2>
+<h2 align="left">Olá 👋! Meu nome é Sarah</h2>
+<div align="left">
+  <p>Desenvolvedora full stack 👩🏻‍💻, natural de Fortaleza-CE, Brazil 🌎</p>
+</div>
 
 ## 🚀 Sobre mim
 
