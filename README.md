@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sarah, from Brazil</h2>
+<h2 align="left">Olá 👋! Meu nome é Sarah, de Fortaleza-CE, Brazil</h2>
 
 ###
 
